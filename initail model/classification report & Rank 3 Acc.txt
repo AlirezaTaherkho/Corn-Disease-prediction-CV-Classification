@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+           0       0.81      0.88      0.85        59
+           1       0.98      0.88      0.93        73
+           2       0.58      0.52      0.55        21
+           3       0.92      1.00      0.96        56
+
+    accuracy                           0.88       209
+   macro avg       0.82      0.82      0.82       209
+weighted avg       0.88      0.88      0.87       209
+
+[0->'Blight', 1->'Common_Rust', 2->'Gray_Leaf_Spot', 3->'Healthy']
+
+Rank 3 Accuracy in 209 test images with 209 True predictions is 100.0%
