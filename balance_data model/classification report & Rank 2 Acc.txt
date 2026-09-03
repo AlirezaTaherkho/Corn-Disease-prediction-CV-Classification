@@ -13,3 +13,5 @@ weighted avg       0.90      0.90      0.90       227
 [0->'Blight', 1->'Common_Rust', 2->'Gray_Leaf_Spot', 3->'Healthy']
 
 Rank 2 Accuracy in 227 test images with 227 True predictions is 100.0%
+
+{'test': 227, 'train': 3781, 'valid': 691}
