@@ -1,3 +1,5 @@
+initail model
+
               precision    recall  f1-score   support
 
            0       0.81      0.88      0.85        59
